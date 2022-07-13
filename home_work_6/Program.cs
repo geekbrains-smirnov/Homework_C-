@@ -14,7 +14,7 @@ int num = Convert.ToInt32(Console.ReadLine());
 int result = 0;
 
 
-if (num >9999)
+if (num > 9999)
 {
     num = (num / 100) % 10;
     result = num;
