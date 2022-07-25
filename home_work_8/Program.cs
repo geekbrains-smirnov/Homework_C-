@@ -17,6 +17,7 @@ string result(int num)
     if (num2 == num1) return ("Проверочное число является палиндромом");
     else return ("Проверочное число не является палиндромом");
 }
+
 Console.WriteLine(result(num));
 
 
