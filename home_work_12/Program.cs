@@ -23,4 +23,3 @@ int MySum(int N)
 }
 
 Console.WriteLine(MySum(N));
-
